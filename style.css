@@ -1,0 +1,36 @@
+body{
+    background-color: black;
+    color: white;
+}
+}
+
+#img-div{
+    max-width: 100%;
+    height: auto;
+display: flex;
+justify-content: center;
+align-items: center;
+margin: auto;}  
+img{
+    margin: auto;
+}  
+@font-face {
+    font-family: Barcelona19-20;
+    src: url(Barcelona19-20.ttf);
+}
+h1{
+    font-family: Barcelona19-20;
+    font-size: 70px;
+    color: white;
+    text-align: center;
+    background-color: grey;
+}
+#tribute-info{
+    display: block;
+    text-align: center;
+    font-family: Barcelona19-20.ttf;
+}
+.footer{
+    text-align: center;
+}
+
